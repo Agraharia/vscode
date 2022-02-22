@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    font-family: 'ubuntu',sans-serif;
+}
+
+nav ul{
+    display: flex;
+    list-style-type: none;
+    height: 89px;
+    background-color: black;
+}
+
+.brand img{
+    width: 12px;
+}

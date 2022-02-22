@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+}
+.head{
+    border: 3px solid red;
+}
+.head-list{
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+}
+.head-list-item{
+    float: left;
+
+    margin: 10px;
+}
+.nav{
+    border: 3px solid green;
+}
+.nav-1{
+
+}
+.nav-list{
+    list-style-type: none;
+    overflow: hidden;
+    padding: 0px;
+    margin: 0px;
+}
+.nav-list-item{
+    float: left;
+    margin: 10px;
+}
+.menu{
+    border: 3px solid black;
+    width: 200px;
+}
